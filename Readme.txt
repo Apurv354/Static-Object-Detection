@@ -1,0 +1,1 @@
+Static Object Detection
