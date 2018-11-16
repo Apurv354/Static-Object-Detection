@@ -7,3 +7,6 @@ When the object is kept in front of the camera
 
 ![pic1](https://user-images.githubusercontent.com/18398875/48599764-2713bc00-e98f-11e8-8e59-4eee448033b3.png)
 
+After certain time when the obect is not attended 
+
+![pic2](https://user-images.githubusercontent.com/18398875/48599779-40b50380-e98f-11e8-8ce5-4f493988a688.png)
